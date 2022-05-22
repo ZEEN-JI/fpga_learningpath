@@ -1,0 +1,29 @@
+F:/fpga_learn/cnt_64/cnt_64_practice/top.v {1 {vlog -work work -stats=none F:/fpga_learn/cnt_64/cnt_64_practice/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} F:/fpga_learn/cnt_64/cnt_64_practice/Di_wave.v {1 {vlog -work work -stats=none F:/fpga_learn/cnt_64/cnt_64_practice/Di_wave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Di_wave
+
+Top level modules:
+	Di_wave
+
+} {} {}} F:/fpga_learn/cnt_64/cnt_64_practice/tb_top.v {1 {vlog -work work -stats=none F:/fpga_learn/cnt_64/cnt_64_practice/tb_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}} F:/fpga_learn/cnt_64/cnt_64_practice/cnt_64.v {1 {vlog -work work -stats=none F:/fpga_learn/cnt_64/cnt_64_practice/cnt_64.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cnt_64
+
+Top level modules:
+	cnt_64
+
+} {} {}}

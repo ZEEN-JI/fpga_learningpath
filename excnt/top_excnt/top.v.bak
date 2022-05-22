@@ -1,0 +1,12 @@
+module top(
+	input wire	sclk,
+	input wire	rst_n,
+	output	wire [7:0]	cnt_o
+);
+
+ex_cnt ex_cnt_inst(
+	.sclk		(sclk_i),
+	.rst_n	(rst_n_i),
+	.cnt_w	(cnt_o)
+);
+endmodule

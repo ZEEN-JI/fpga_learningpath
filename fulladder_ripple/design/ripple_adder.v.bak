@@ -1,0 +1,8 @@
+module full_adder(
+	input wire cin, o1, o2,
+	output wire sum, cout
+)
+
+wire sum1,cout1;
+assign sum1 = o1 ^ o2;
+assign cout1 = o1 & o2;

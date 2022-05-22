@@ -1,0 +1,12 @@
+module top(inCnt, ouCnt,rst_n_t,sclk_t);
+
+input wire [7:0] inCnt;
+output wire [7:0] ouCnt;
+input wire rst_n_t;
+input wire sclk_t;
+
+cnt_64 cnt_64_inst(
+	.
+);
+
+endmodule

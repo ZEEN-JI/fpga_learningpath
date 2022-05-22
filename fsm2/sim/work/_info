@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/fpgaquartus
+vdetect_fsm
+!s110 1652999088
+!i10b 1
+!s100 Z3K7V7D=VWkSfDi<AkVO?2
+IRDfh:Xe2V8Id8C^]4LA3W2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/onedrive/selfsudy/fpga/fsm2/sim
+w1652999084
+8./../design/detect_fsm.v
+F./../design/detect_fsm.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1652999088.000000
+!s107 ./../design/detect_fsm.v|
+!s90 -reportprogress|300|./../design/detect_fsm.v|
+!i113 1
+Z3 tCvgOpt 0
+vtb_detect_fsm
+!s110 1652999087
+!i10b 1
+!s100 Pk`P2HMeJEedaT0ACo<EH3
+IlK3h29VPYc2zhhVi]f<021
+R0
+R1
+w1652999005
+8./tb_detect_fsm.v
+F./tb_detect_fsm.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1652999087.000000
+!s107 ./tb_detect_fsm.v|
+!s90 -reportprogress|300|./tb_detect_fsm.v|
+!i113 1
+R3

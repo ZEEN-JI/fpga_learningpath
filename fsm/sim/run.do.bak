@@ -1,0 +1,4 @@
+quit -sim
+vlib work
+vlog ./tb_fsm_1.v
+vlog ./

@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/fpgaquartus
+vcnt_64
+Z0 !s110 1651259757
+!i10b 1
+!s100 <1M2Z_o<=9__GI?jf[?aX2
+I8EQ?;WWb1:cWhic_`nW^k1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/fpga_learn/cnt_64
+w1651209516
+8F:/fpga_learn/cnt_64/cnt_64_practice/cnt_64.v
+FF:/fpga_learn/cnt_64/cnt_64_practice/cnt_64.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1651259757.000000
+!s107 F:/fpga_learn/cnt_64/cnt_64_practice/cnt_64.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/fpga_learn/cnt_64/cnt_64_practice/cnt_64.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vDi_wave
+R0
+!i10b 1
+!s100 AbULkfXzRUO1fiblM:3mQ0
+I@dK<Ro=<MlV6FdU4a7Jb73
+R1
+R2
+w1651259748
+Z7 8F:/fpga_learn/cnt_64/cnt_64_practice/Di_wave.v
+Z8 FF:/fpga_learn/cnt_64/cnt_64_practice/Di_wave.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 F:/fpga_learn/cnt_64/cnt_64_practice/Di_wave.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|F:/fpga_learn/cnt_64/cnt_64_practice/Di_wave.v|
+!i113 1
+R5
+R6
+n@di_wave
+vDiv_wave
+!s110 1651206829
+!i10b 1
+!s100 <Gd_CO_o;N9n1Ye<G9ZKF3
+I9RfgPW[[Tm^QNH8eNBH]T1
+R1
+R2
+w1651206747
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1651206829.000000
+R9
+R10
+!i113 1
+R5
+R6
+n@div_wave
+vtb_top
+R0
+!i10b 1
+!s100 DE>D0[6HA^Uge<K8<km<^2
+I2cU;TJNd]_`BMC_JGRjo[1
+R1
+R2
+w1651208369
+8F:/fpga_learn/cnt_64/cnt_64_practice/tb_top.v
+FF:/fpga_learn/cnt_64/cnt_64_practice/tb_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/fpga_learn/cnt_64/cnt_64_practice/tb_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/fpga_learn/cnt_64/cnt_64_practice/tb_top.v|
+!i113 1
+R5
+R6
+vtop
+R0
+!i10b 1
+!s100 c`CHb6A`h49>c<MnFIXeA3
+IfWdJbIKn1P@cGV8OXHHCK0
+R1
+R2
+w1651208420
+8F:/fpga_learn/cnt_64/cnt_64_practice/top.v
+FF:/fpga_learn/cnt_64/cnt_64_practice/top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/fpga_learn/cnt_64/cnt_64_practice/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/fpga_learn/cnt_64/cnt_64_practice/top.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,23 @@
+module fsm_coin(
+	input wire pi_money,
+	input wire rst_n, sclk_t,
+	output wire po_cola
+);
+
+
+reg [2:0] state;
+parameter IDLE = 3'b001;
+parameter ONE = 3'b010;
+parameter TWO = 3'b100;
+
+
+always @(posedge sclk_t or negedge rst_n)
+	if(rst_n == 1)
+		po_cola = 'b0;
+	else begin
+		switch() begin
+		
+		
+		endcase
+	end
+

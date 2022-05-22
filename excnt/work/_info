@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/fpgaquartus
+vex_cnt
+!s110 1651122104
+!i10b 1
+!s100 BOl9_`j8X3HdZh2klA0n13
+I@3WzKBid8h5YZEV=@UKnS2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/fpga_learn
+w1651122088
+8F:/fpga_learn/top_excnt/ex_cnt.v
+FF:/fpga_learn/top_excnt/ex_cnt.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1651122104.000000
+!s107 F:/fpga_learn/top_excnt/ex_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/fpga_learn/top_excnt/ex_cnt.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtb_top
+Z5 !s110 1651122098
+!i10b 1
+!s100 LKZYl]FE@B<_Uc1E?06Bi2
+I;Gj8DX>cSjLoJ;N<WjE_W1
+R0
+R1
+w1651106373
+8F:/fpga_learn/top_excnt/top_tb.v
+FF:/fpga_learn/top_excnt/top_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z6 !s108 1651122098.000000
+!s107 F:/fpga_learn/top_excnt/top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/fpga_learn/top_excnt/top_tb.v|
+!i113 1
+R3
+R4
+vtop
+R5
+!i10b 1
+!s100 3D3]A43kQd=FE@jY473ma2
+IRDizWH^54CmVUf:@:`zE51
+R0
+R1
+w1651115290
+8F:/fpga_learn/top_excnt/top.v
+FF:/fpga_learn/top_excnt/top.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 F:/fpga_learn/top_excnt/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/fpga_learn/top_excnt/top.v|
+!i113 1
+R3
+R4
